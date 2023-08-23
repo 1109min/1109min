@@ -13,7 +13,7 @@
 
 <br>
 
-//[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=1109min)](https://solved.ac/1109min)
+<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=1109min)](https://solved.ac/1109min) -->
 
 <br>
 
